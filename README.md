@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats / Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekanediaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekanediaz&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nekanediaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nekane's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekanediaz&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </p>
 
 ---
