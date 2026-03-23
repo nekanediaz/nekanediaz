@@ -24,6 +24,14 @@
 | **ICT / TIC** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networks](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
+### 🚀 My Learning Path / Mi Camino de Aprendizaje
+
+```json
+{
+  "currently_learning": ["Go", "Kubernetes", "Cybersecurity Basics"],
+  "next_goals": ["Cloud Computing", "Advanced Networking", "Microservices"]
+}
+---
 
 ### 📫 Let's connect! / ¡Contactemos!
 - **LinkedIn:** [Nekane]
