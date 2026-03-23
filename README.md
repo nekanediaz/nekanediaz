@@ -29,8 +29,8 @@
 | Technology | Progress | Status |
 | :--- | :--- | :--- |
 | **Go (Golang)** | ![Progress](https://geps.dev/progress/40) | Basics & Syntax |
-| **Kubernetes** | ![Progress](https://geps.dev/progress/25) | Cluster Architecture |
-| **Cybersecurity** | ![Progress](https://geps.dev/progress/50) | Network Fundamentals |
+| **Kubernetes** | ![Progress](https://geps.dev/progress/50) | Cluster Architecture |
+| **Cybersecurity** | ![Progress](https://geps.dev/progress/10) | Network Fundamentals |
 ---
 
 ### 📫 Let's connect! / ¡Contactemos!
