@@ -24,13 +24,13 @@
 | **ICT / TIC** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networks](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-### 🚀 My Learning Path / Mi Camino de Aprendizaje
+### 🚀 Currently Learning / Aprendiendo...
 
-```json
-{
-  "currently_learning": ["Go", "Kubernetes", "Cybersecurity Basics"],
-  "next_goals": ["Cloud Computing", "Advanced Networking", "Microservices"]
-}
+| Technology | Progress | Status |
+| :--- | :--- | :--- |
+| **Go (Golang)** | ![Progress](https://geps.dev/progress/40) | Basics & Syntax |
+| **Kubernetes** | ![Progress](https://geps.dev/progress/25) | Cluster Architecture |
+| **Cybersecurity** | ![Progress](https://geps.dev/progress/50) | Network Fundamentals |
 ---
 
 ### 📫 Let's connect! / ¡Contactemos!
