@@ -30,9 +30,13 @@
 ![UML](https://img.shields.io/badge/UML-FAEDCB?style=for-the-badge&logo=uml&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-C6DEF1?style=for-the-badge&logo=go&logoColor=black)
 
-## 🌐 Frameworks & Tools
-![Angular](https://img.shields.io/badge/Angular-F3B0C3?style=for-the-badge&logo=angular&logoColor=black)
+## 🌐 Frameworks, Cloud & Tools
+![OpenStack](https://img.shields.io/badge/OpenStack-F3B0C3?style=for-the-badge&logo=openstack&logoColor=black)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FAEDCB?style=for-the-badge&logo=opentofu&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-DBCDF0?style=for-the-badge&logo=terraform&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-C6DEF1?style=for-the-badge&logo=angular&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FAEDCB?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-F7D9C4?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-C6DEF1?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-DBCDF0?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-C9E4DE?style=for-the-badge&logo=android-studio&logoColor=black)
@@ -42,6 +46,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-C9E4DE?style=for-the-badge&logo=github&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-F3B0C3?style=for-the-badge&logo=debian&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-DBCDF0?style=for-the-badge&logo=eclipse&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-C9E4DE?style=for-the-badge&logo=mariadb&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-FAEDCB?style=for-the-badge&logo=canva&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F7D9C4?style=for-the-badge&logo=figma&logoColor=black)
 ![CapCut](https://img.shields.io/badge/CapCut-F3B0C3?style=for-the-badge&logo=capcut&logoColor=black)
